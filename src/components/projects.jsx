@@ -23,7 +23,10 @@ const projects = () => {
                 >
                   Demo
                 </button>
-                <button className="w-1/4 pt-1 mr-8 bg-zinc-700 rounded-lg hover:shadow-black hover:shadow-inner">
+                <button
+                  className="w-1/4 pt-1 mr-8 bg-zinc-700 rounded-lg hover:shadow-black hover:shadow-inner"
+                  onClick={() => window.open(project.code, "_blank")}
+                >
                   Code
                 </button>
               </div>
