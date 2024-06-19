@@ -62,7 +62,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "Tailwind CSS", "React"],
-    // demo:
+    demo: 'https://personal-portfolio-1-0.vercel.app/',
     code: 'https://github.com/jbhavya99/personal-portfolio-1.0.git',
   },
 ];
