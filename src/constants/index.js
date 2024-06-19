@@ -63,7 +63,7 @@ export const PROJECTS = [
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "Tailwind CSS", "React"],
     // demo:
-    code: 'https://github.com/jbhavya99/personal-portfolio-1.0',
+    code: 'https://github.com/jbhavya99/personal-portfolio-1.0.git',
   },
 ];
 
