@@ -55,7 +55,7 @@ const about = () => {
                 </h2>
                 <p class="leading-relaxed">(2021-Present)</p>
                 <p> Pursuing B.Tech in Mathematics & Computing.</p>
-                <p class="leading-relaxed"> Score - 8.74 (present)</p>
+                <p class="leading-relaxed"> Grade - 8.74 (present)</p>
               </div>
             </div>
           </div>
@@ -78,7 +78,7 @@ const about = () => {
                   {" "}
                   Completed my 12th class from CBSE board.
                 </p>
-                <p class="leading-relaxed"> Scored 91.4% in AISSCE'2020.</p>
+                <p class="leading-relaxed"> Grade - 91.4% in AISSCE'2020.</p>
               </div>
             </div>
           </div>
@@ -102,7 +102,7 @@ const about = () => {
                   {" "}
                   Completed my 10th class from CBSE board.
                 </p>
-                <p class="leading-relaxed"> Scored 96.4% in AISSE'2018.</p>
+                <p class="leading-relaxed"> Grade - 96.4% in AISSE'2018.</p>
               </div>
             </div>
           </div>
