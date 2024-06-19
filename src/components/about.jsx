@@ -55,7 +55,7 @@ const about = () => {
                 </h2>
                 <p class="leading-relaxed">(2021-Present)</p>
                 <p> Pursuing B.Tech in Mathematics & Computing.</p>
-                <p class="leading-relaxed"> Grade - 8.74 (present)</p>
+                <p class="leading-relaxed"> Grade - 8.74 at present</p>
               </div>
             </div>
           </div>
