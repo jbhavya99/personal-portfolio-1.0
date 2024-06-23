@@ -39,22 +39,13 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const PROJECTS = [
   {
-    title: "Gym WebApp",
-    image: project1,
-    description:
-      "A frontend website to showcase gym facilities, community reviews, training plans, pricing, and FAQs.",
-    technologies: ["HTML", "CSS", "React", "TailWind CSS", "JavaScript"],
-    demo:'https://bhavya-gym-site.netlify.app/'
-    // code:
-  },
-  {
     title: "Website for SIAM-DTU",
     image: project2,
     description:
       "An application for college society featuring alumni network, blogs, gallery, contact & team.",
     technologies: ["HTML", "CSS", "React", "SCSS"],
     demo:'https://siamdtu.vercel.app/',
-    // code:
+    code:'https://github.com/H4r5h-10/siamdtu',
   },
   {
     title: "Portfolio Website",
@@ -64,6 +55,15 @@ export const PROJECTS = [
     technologies: ["HTML", "Tailwind CSS", "React"],
     demo: 'https://personal-portfolio-1-0.vercel.app/',
     code: 'https://github.com/jbhavya99/personal-portfolio-1.0.git',
+  },
+  {
+    title: "Gym WebApp",
+    image: project1,
+    description:
+      "A frontend website to showcase gym facilities, community reviews, training plans, pricing, and FAQs.",
+    technologies: ["HTML", "CSS", "React", "TailWind CSS", "JavaScript"],
+    demo:'https://bhavya-gym-site.netlify.app/'
+    // code:
   },
 ];
 
