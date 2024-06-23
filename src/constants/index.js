@@ -62,8 +62,8 @@ export const PROJECTS = [
     description:
       "A frontend website to showcase gym facilities, community reviews, training plans, pricing, and FAQs.",
     technologies: ["HTML", "CSS", "React", "TailWind CSS", "JavaScript"],
-    demo:'https://bhavya-gym-site.netlify.app/'
-    // code:
+    demo:'https://bhavya-gym-site.netlify.app/',
+    code: 'https://github.com/jbhavya99/gymSite',
   },
 ];
 
