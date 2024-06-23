@@ -47,15 +47,15 @@ export const PROJECTS = [
     demo:'https://siamdtu.vercel.app/',
     code:'https://github.com/H4r5h-10/siamdtu',
   },
-  {
-    title: "Portfolio Website",
-    image: project3,
-    description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "Tailwind CSS", "React"],
-    demo: 'https://personal-portfolio-1-0.vercel.app/',
-    code: 'https://github.com/jbhavya99/personal-portfolio-1.0.git',
-  },
+  // {
+  //   title: "Portfolio Website",
+  //   image: project3,
+  //   description:
+  //     "A personal portfolio website showcasing projects, skills, and contact information.",
+  //   technologies: ["HTML", "Tailwind CSS", "React"],
+  //   demo: 'https://personal-portfolio-1-0.vercel.app/',
+  //   code: 'https://github.com/jbhavya99/personal-portfolio-1.0.git',
+  // },
   {
     title: "Gym WebApp",
     image: project1,
